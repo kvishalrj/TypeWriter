@@ -1,0 +1,11 @@
+#main{
+    display: block;
+    font-size: 100px;
+    text-align: center;
+    color: red;
+    margin-top: 200px;
+}
+
+#dynamic-text{
+    color: royalblue;
+}
