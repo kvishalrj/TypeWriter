@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded',()=>{
 const dynamicContent = document.getElementById("dynamic-text");
 
 const phrases = ["Student...", "Learner...", "Programmer..."]
@@ -37,3 +38,5 @@ function clearLetters() {
 }
 
 printLetters(phrases[phraseIndex]);
+    
+});
