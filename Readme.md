@@ -14,7 +14,7 @@ Basically I used JavaScipt events to make this project.
 
    
 
-[Click here to view live 🚀](https://mybonton.netlify.app/ "Street Style Landing Page")
+[Click here to view live 🚀](https://my-new-typewriter.netlify.app/ "Street Style Landing Page")
 
 ## Screenshot of the Project 👇
 ![](/Screenshot%202022-09-21%20at%2019-11-11%20TypeWriter.png)
